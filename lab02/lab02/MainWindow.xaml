@@ -1,0 +1,16 @@
+﻿<Window x:Name="Main" x:Class="lab02.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab02"
+        mc:Ignorable="d"
+        Title="Головна сторінка" Height="450" Width="800" Background="LightYellow" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label x:Name="Label1" Content="Головне Вікно" HorizontalAlignment="Left" Margin="315,60,0,0" VerticalAlignment="Top" Height="42" Width="200" FontSize="30" FontFamily="Times New Roman" FontWeight="Bold" Foreground="PaleVioletRed" FontStyle="Italic"/>
+        <Button x:Name="ToWin2" Content="Робота з данними студентів" HorizontalAlignment="Left" Margin="51,150,0,0" VerticalAlignment="Top" Width="222" Height="38" FontSize="14" FontStyle="Italic" FontWeight="Bold" BorderBrush="Black" Background="Aqua" Click="ToWin2_Click"></Button>
+        <Button x:Name="ToWin3" Content="Хрестики-Нулики" HorizontalAlignment="Right" Margin="0,150,51.6,0" VerticalAlignment="Top" Width="222" Height="38" FontSize="14" FontStyle="Italic" FontWeight="Bold" BorderBrush="Black" Background="Aqua" Click="ToWin3_Click"></Button>
+        <Button x:Name="ToWin4" Content="Калькулятор" HorizontalAlignment="Center" Margin="51,269,520.6,0" VerticalAlignment="Top" Width="222" Height="38" FontSize="14" FontStyle="Italic" FontWeight="Bold" BorderBrush="Black" Background="Aqua" Click="ToWin4_Click"></Button>
+        <Button x:Name="ToWin5" Content="Дані про розробника" HorizontalAlignment="Center" Margin="520,269,51.6,0" VerticalAlignment="Top" Width="222" Height="38" FontSize="14" FontStyle="Italic" FontWeight="Bold" BorderBrush="Black" Background="Aqua" Click="ToWin5_Click"></Button>
+    </Grid>
+</Window>

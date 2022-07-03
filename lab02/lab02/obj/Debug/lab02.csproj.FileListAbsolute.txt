@@ -1,0 +1,31 @@
+C:\Users\leope\source\repos\lab02\lab02\obj\Debug\lab02.csproj.SuggestedBindingRedirects.cache
+C:\Users\leope\source\repos\lab02\lab02\obj\Debug\MainWindow.g.cs
+C:\Users\leope\source\repos\lab02\lab02\obj\Debug\App.g.cs
+C:\Users\leope\source\repos\lab02\lab02\obj\Debug\lab02_MarkupCompile.cache
+C:\Users\leope\source\repos\lab02\lab02\obj\Debug\lab02_MarkupCompile.lref
+C:\Users\leope\source\repos\lab02\lab02\bin\Debug\lab02.exe.config
+C:\Users\leope\source\repos\lab02\lab02\bin\Debug\lab02.exe
+C:\Users\leope\source\repos\lab02\lab02\bin\Debug\lab02.pdb
+C:\Users\leope\source\repos\lab02\lab02\obj\Debug\MainWindow.baml
+C:\Users\leope\source\repos\lab02\lab02\obj\Debug\lab02.g.resources
+C:\Users\leope\source\repos\lab02\lab02\obj\Debug\lab02.Properties.Resources.resources
+C:\Users\leope\source\repos\lab02\lab02\obj\Debug\lab02.csproj.GenerateResource.cache
+C:\Users\leope\source\repos\lab02\lab02\obj\Debug\lab02.csproj.CoreCompileInputs.cache
+C:\Users\leope\source\repos\lab02\lab02\obj\Debug\lab02.exe
+C:\Users\leope\source\repos\lab02\lab02\obj\Debug\lab02.pdb
+C:\Users\leope\source\repos\lab02\lab02\obj\Debug\lab02.csproj.AssemblyReference.cache
+D:\Проекты VS\lab02\lab02\bin\Debug\lab02.exe.config
+D:\Проекты VS\lab02\lab02\bin\Debug\lab02.exe
+D:\Проекты VS\lab02\lab02\bin\Debug\lab02.pdb
+D:\Проекты VS\lab02\lab02\obj\Debug\lab02.csprojAssemblyReference.cache
+D:\Проекты VS\lab02\lab02\obj\Debug\MainWindow.g.cs
+D:\Проекты VS\lab02\lab02\obj\Debug\App.g.cs
+D:\Проекты VS\lab02\lab02\obj\Debug\lab02_MarkupCompile.cache
+D:\Проекты VS\lab02\lab02\obj\Debug\lab02_MarkupCompile.lref
+D:\Проекты VS\lab02\lab02\obj\Debug\MainWindow.baml
+D:\Проекты VS\lab02\lab02\obj\Debug\lab02.g.resources
+D:\Проекты VS\lab02\lab02\obj\Debug\lab02.Properties.Resources.resources
+D:\Проекты VS\lab02\lab02\obj\Debug\lab02.csproj.GenerateResource.cache
+D:\Проекты VS\lab02\lab02\obj\Debug\lab02.csproj.CoreCompileInputs.cache
+D:\Проекты VS\lab02\lab02\obj\Debug\lab02.exe
+D:\Проекты VS\lab02\lab02\obj\Debug\lab02.pdb
